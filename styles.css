@@ -75,3 +75,10 @@ h3 {
         padding: 0 38px;
     }
 }
+
+@media screen and (max-width: 500px) {
+    h1 {
+    padding-top: 55px;
+    font-size: 2.6rem;
+}
+}

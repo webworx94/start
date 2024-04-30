@@ -8,10 +8,57 @@ body {
     text-align: center;
 }
 
+#main {
+    height: 100svh;
+    width: 100%;
+    background: linear-gradient(30deg, #061e8b, #455bbc, #1a3091);
+    color: white;
+    font-family: Noto Sans Thai;
+}
+
 h1 {
-    margin-top: 100px;
+    padding-top: 100px;
 }
 
 h2 {
     margin-top: 50px;
+}
+
+h3 {
+    margin-top: -20px;
+}
+
+#main p {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.links {
+    margin: -1rem auto 0 auto;
+}
+
+.btn {
+    background: linear-gradient(135deg, #08249f, #9B30FF, #4B0082);
+    width: 200px;
+    border-radius: 15px;
+    border-top-right-radius: 0px;
+    margin: 2rem auto;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: linear-gradient(135deg, #7D3C98, #9B30FF);
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 0px;
+}
+
+.btn a {
+    display: block;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: white;
+    text-decoration: none;
+    padding: 9px 0 10px 0;
+    border: 1.5px solid white;
 }

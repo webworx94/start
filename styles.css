@@ -33,13 +33,10 @@ h2 span {
     font-weight: 300;
 }
 
-h3 {
-    margin-top: -20px;
-}
-
 #main p {
     padding-top: 20px;
     padding-bottom: 30px;
+    font-weight: 300;
 }
 
 .links {

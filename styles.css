@@ -50,7 +50,7 @@ h2 span {
 }
 
 .btn {
-    background: linear-gradient(135deg, #08249f, #9B30FF, #4B0082);
+    background-color: transparent;
     width: 200px;
     border-radius: 15px;
     border-top-right-radius: 0px;

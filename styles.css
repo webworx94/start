@@ -51,6 +51,7 @@ h2 span {
 
 .btn {
     background-color: transparent;
+    backdrop-filter: blur(10px);
     width: 200px;
     border-radius: 15px;
     border-top-right-radius: 0px;
@@ -59,7 +60,7 @@ h2 span {
 }
 
 .btn:hover {
-    background: linear-gradient(135deg, #7D3C98, #9B30FF);
+    backdrop-filter: blur(20px);
     border-top-right-radius: 15px;
     border-bottom-left-radius: 0px;
 }

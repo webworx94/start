@@ -12,6 +12,8 @@ body {
     min-height: 100svh;
     width: 100%;
     background: linear-gradient(30deg, #061e8b, #455bbc, #1a3091), url(images/net.jpg);
+    background-size: cover;
+    background-position: center;
     color: white;
     font-family: Noto Sans Thai;
     padding-bottom: 30px;

@@ -25,13 +25,14 @@ body {
 
 h1 {
     padding-top: 80px;
-    font-size: 5.5rem;
+    font-size: 6.5rem;
     font-weight: 370;
     font-family: Wire One;
 }
 
 h2 {
     margin-top: 35px;
+    font-size: 4.9rem;
 }
 
 h2 span {
@@ -43,6 +44,7 @@ h2 span {
     padding-top: 20px;
     padding-bottom: 30px;
     font-weight: 300;
+    font-size: 3rem;
 }
 
 .links {

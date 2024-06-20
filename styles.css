@@ -74,7 +74,7 @@ h2 span {
 
 .btn:hover {
     backdrop-filter: blur(20px);
-    background-color: rgba(250, 250, 250, 0.3);
+    background-color: rgba(250, 250, 250, 0.6);
     color: black;
     border-top-right-radius: 15px;
     border-bottom-left-radius: 0px;

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /agb/
+Disallow: /impressum/
+Disallow: /datenschutz/
+Disallow: /bildnachweise/
+
+Sitemap: https://web-worx.ch/sitemap.xml

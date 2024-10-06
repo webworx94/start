@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://web-worx.ch/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/angebot/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.90</priority> <!-- Höhere Priorität -->
+</url>
+<url>
+  <loc>https://web-worx.ch/portfolio/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.80</priority> <!-- Höhere Priorität -->
+</url>
+<url>
+  <loc>https://web-worx.ch/firma/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.70</priority> <!-- Höhere Priorität -->
+</url>
+<url>
+  <loc>https://web-worx.ch/kontakt/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.60</priority> <!-- Höhere Priorität -->
+</url>
+<url>
+  <loc>https://web-worx.ch/angebot/beratung-planung/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/angebot/design-ux/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/angebot/code-seo/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/angebot/feedback-debugging/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/angebot/webhosting/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/angebot/anpassung-service/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/portfolio/thehairlounge/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/portfolio/certwerk/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/portfolio/dometech/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/portfolio/segenreich-fotografie/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/agb/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/impressum/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/datenschutz/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>https://web-worx.ch/bildnachweise/</loc>
+  <lastmod>2024-10-06T20:46:53+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+
+</urlset>
